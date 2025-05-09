@@ -8,7 +8,6 @@ HydroSpot-YOLO is an advanced object detection model designed to monitor water h
 - **P2 Detection Layer**: Enhances the model’s ability to detect small targets, particularly in dynamic water environments.
 - **Specialized Dataset**: A custom dataset derived from real surveillance footage, ensuring robust performance across varying environmental conditions, lighting, and water hyacinth densities.
 
-Data set links and code will be uploaded soon
 
 
 
